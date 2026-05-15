@@ -178,6 +178,7 @@ CORS_ALLOWED_ORIGINS = [
 
    
     "http://localhost:5174",
+     "https://predicta-work.vercel.app",
 
 ]
 
