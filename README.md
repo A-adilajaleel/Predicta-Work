@@ -6,8 +6,8 @@ A full-stack remote workforce productivity tracker built with Django REST Framew
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://predicta-work.vercel.app
-- **Backend API:** https://predicta-work.onrender.com/api
+- **Live:** https://predicta-work.vercel.app
+
 
 ---
 
