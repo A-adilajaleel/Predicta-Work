@@ -8,7 +8,6 @@ A full-stack remote workforce productivity tracker built with Django REST Framew
 
 - **Live:** https://predicta-work.vercel.app
 
-
 ---
 
 ## 👥 Role-Based System
@@ -50,7 +49,6 @@ A full-stack remote workforce productivity tracker built with Django REST Framew
 - Django 6 + Django REST Framework
 - PostgreSQL
 - JWT (SimpleJWT)
-- Celery + Redis
 - Groq API (LLaMA)
 - Slack Webhook
 
@@ -67,10 +65,6 @@ A full-stack remote workforce productivity tracker built with Django REST Framew
 ```bash
 cd backend
 pip install -r requirements.txt
-```
-
-
-```bash
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
@@ -96,6 +90,7 @@ npm run dev
 ---
 
 ## 📁 Project Structure
+
 Predicta-Work/
 
 ├── backend/
@@ -114,15 +109,16 @@ Predicta-Work/
 
 └── frontend/
 
-├── src/
+└── src/
 
-│   ├── pages/      # All pages
+├── pages/      # All pages
 
-│   ├── components/ # Reusable components
+├── components/ # Reusable components
 
-│   ├── api/        # API calls
+├── api/        # API calls
 
-│   └── store/      # Redux store
+└── store/      # Redux store
+
 
 ---
 
