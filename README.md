@@ -1,4 +1,4 @@
-# 🚀 Predicta Work — Ethical AI Productivity Platform
+#  Predicta Work — Ethical AI Productivity Platform
 
 A full-stack remote workforce productivity tracker built with Django REST Framework and React. Designed with ethical AI principles — no spying, no surveillance, just intelligent insights.
 
