@@ -122,6 +122,4 @@ Most employee tracking tools spy on workers — screenshots, keyloggers, mouse t
 
 **Adila Jaleel** — Full Stack Developer
 
-**Adila Jaleel** — Full Stack Developer
-- KTU BTech CSE 2025
-- [GitHub](https://github.com/A-adilajaleel)
+
