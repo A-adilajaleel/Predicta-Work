@@ -59,7 +59,7 @@ A full-stack remote workforce productivity tracker built with Django REST Framew
 
 ---
 
-## 🚀 Local Setup
+##  Local Setup
 
 ### Backend
 ```bash
